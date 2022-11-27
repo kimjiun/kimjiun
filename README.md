@@ -12,3 +12,7 @@
 
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+
+## Git Status
+[![github stats](https://github-readme-stats.vercel.app/api?username=kimjiun)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjiun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
