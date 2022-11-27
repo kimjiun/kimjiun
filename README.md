@@ -1,5 +1,6 @@
 ### 안녕하세요 김지운입니다. 😄
 - Blog : [![Tech Blog Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/ggididid/)](https://blog.naver.com/ggididid/)
+- Notion : https://kimjiun.notion.site/3a0daddbf89245a7887418eb3fe0ba88
 
 - 👯 코틀린으로 안드로이드 개발하는 직무를 희망하고있습니다.
 - 👋 잘 부탁드립니다
